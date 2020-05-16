@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qq199510.github.io</id>
     <title>Dongdong blog</title>
-    <updated>2020-04-09T12:09:23.108Z</updated>
+    <updated>2020-05-16T03:47:56.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qq199510.github.io"/>
     <link rel="self" href="https://qq199510.github.io/atom.xml"/>
@@ -10,43 +10,6 @@
     <logo>https://qq199510.github.io/images/avatar.png</logo>
     <icon>https://qq199510.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Dongdong blog</rights>
-    <entry>
-        <title type="html"><![CDATA[K2P(MTK)和新3和N1 Amlogic S905和ACRH17 竞斗云使用感受对比]]></title>
-        <id>https://qq199510.github.io/post/k2pmtkhe-xin-3-he-n1-amlogic-s905-he-acrh17-jing-dou-yun-shi-yong-gan-shou-dui-bi/</id>
-        <link href="https://qq199510.github.io/post/k2pmtkhe-xin-3-he-n1-amlogic-s905-he-acrh17-jing-dou-yun-shi-yong-gan-shou-dui-bi/">
-        </link>
-        <updated>2020-04-08T12:48:28.000Z</updated>
-        <content type="html"><![CDATA[<p>任何评价都要有参考系，我们就拿常见的K2P(MTK), ACRH17,新3和N1作为参考，这样大家比较好判断。</p>
-<ol>
-<li>CPU性能<br>
-K2P(MTK)和新3 7621 1500分左右<br>
-N1 Amlogic S905  15000分以上<br>
-ACRH17 竞斗云 4019  3500分左右</li>
-</ol>
-<p>小结：做有线路由，N1无敌，7621跑500M足够，跑千兆勉强，4019跑千兆+去广告足够</p>
-<ol start="2">
-<li>无线<br>
-K2P(MTK)  为100分做参考 有偶尔断流的问题<br>
-新3 2.4G 70分  5G 80分    有偶尔断流的问题，信号弱<br>
-ACRH17  2.4G 70分  5G 80分   不断流不丢失  就是信号弱<br>
-竞斗云 4019 2.4G 70分  5G 90分  2.4G信号弱，5G信号强速度快，但是会丢失信号</li>
-</ol>
-<p>小结：K2P 信号覆盖最强，2.4G最强，5G有偶尔断流问题，普通用没影响，打游戏有影响；<br>
-竞斗云 无线速度很好，但是覆盖差，最关键是会丢信号然后重连，普通用问题不大，打游戏就别想了。</p>
-<p>3.usb<br>
-K2P(MTK) 需要硬改，3.0,带供电可接硬盘，性能渣<br>
-N1 2.0,带供电可接硬盘，性能渣<br>
-ACRH17 3.0,带供电可接硬盘，性能一般<br>
-竞斗云 3.0,不带供电只能U盘，性能一般</p>
-<p>总结：任何东西值不值都要以毛爷爷作为根据（所有价格包含邮费）</p>
-<p>K2P(MTK)还是最适合普通家庭（90平米，日常上网，轻度游戏，一台路由器解决全部问题） 市场价200元勉强，150元超值，250元智商税。<br>
-新3适合普通家庭（90平米，日常上网，轻度游戏，一台路由器解决全部问题）120元勉强，80元超值，150元智商税。<br>
-ACRH17 适合游戏家庭（70平米，日常上网，喜欢游戏，还想体验下NAS，一台路由器解决全部问题） 市场价350看来已经是智商税，200超值，因为有了替代方案。<br>
-N1+K2P 适合品质家庭，性能好，无线好，随便加AP, 市场价320勉强，250超值。<br>
-竞斗云是新3不错的替代品（90平米，千兆宽带，日常上网，不玩游戏，一台路由器解决全部问题），以120来算应该属于值，之前市场价90+15=105属于很值，现在市场价150偏高，180智商税</p>
-<p>当然每个人看重的点不一样，比如竞斗云刷机比较麻烦，或者cpu性能好可以适当增减价格，也有人觉得丢失信号无法接受，都是自己的标准，不要强迫别人都跟自己一样。</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[test]]></title>
         <id>https://qq199510.github.io/post/test/</id>
